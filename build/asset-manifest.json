@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7da27d8.css",
+    "main.js": "/static/js/main.8cfad245.js",
+    "static/media/acton-crawford-8PB_TFEy2XQ-unsplash.jpg": "/static/media/acton-crawford-8PB_TFEy2XQ-unsplash.11e249212d6c0b71580e.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/index.html",
+    "main.d7da27d8.css.map": "/static/css/main.d7da27d8.css.map",
+    "main.8cfad245.js.map": "/static/js/main.8cfad245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da27d8.css",
+    "static/js/main.8cfad245.js"
+  ]
+}
